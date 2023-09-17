@@ -1,0 +1,1 @@
+# wp_custom_post_type_as_shortcode
